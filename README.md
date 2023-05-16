@@ -1,1 +1,2 @@
 # LinuxTest
+echo "hello git"
